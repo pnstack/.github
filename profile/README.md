@@ -2,6 +2,10 @@
 
 Welcome to PNStack, your go-to platform for building full-stack applications with ease and efficiency.
 
+## Tools
+
+Sonar Queue: https://sonarcloud.io/organizations/pnstack
+
 ## About PNStack
 
 PNStack is designed to streamline the development process for both novice and experienced developers. With our scaffolding tools, you can generate project templates for various frameworks like React, Vue, Angular, and more....
